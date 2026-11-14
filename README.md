@@ -1,10 +1,10 @@
-## Hi, I'm Leo 👋
+## Hi, I'm Leo 
 
 Analytics engineer in the UK, six years in data, the last three in payments.
 
-- 🏦 In payments, I build dbt models on BigQuery for payment transaction monitoring and fraud detection. Every change passes unit and data tests in CI before it merges.
-- 🧱 Before that I was the only technical data person in an analytics team, so I built the platform myself: Python pipelines, layered SQL models and star schemas over 100M+ payment records.
-- 🤖 I build with LLMs at work and at home: agent workflows that read and group tickets, and multi-agent apps that keep their own memory.
+-  In payments, I build dbt models on BigQuery for payment transaction monitoring and fraud detection. Every change passes unit and data tests in CI before it merges.
+-  Before that I was the only technical data person in an analytics team, so I built the platform myself: Python pipelines, layered SQL models and star schemas over 100M+ payment records.
+-  I build with LLMs at work and at home: agent workflows that read and group tickets, and multi-agent apps that keep their own memory.
 
 ### Featured projects
 
