@@ -10,6 +10,8 @@ Analytics engineer in the UK, six years in data, the last three in payments.
 
 | Project | What it shows |
 |---|---|
+| [ask-the-pipeline](https://github.com/leo-data-gig-world/ask-the-pipeline) | LLM analytics agent as a Slack bot: dbt docs as context, guarded read-only SQL, prompt-injection defence, evals in CI |
+| [pokemon-price-pipeline](https://github.com/leo-data-gig-world/pokemon-price-pipeline) | Daily pipeline: Airflow 3, Parquet lake, dbt with unit tests, spike alerts, CI/CD |
 | [dbt-lookml-portfolio](https://github.com/leo-data-gig-world/dbt-lookml-portfolio) | Runnable dbt + LookML on DuckDB: layered models, tests, snapshots, CI and dashboards as code |
 | [agent_skills](https://github.com/leo-data-gig-world/agent_skills) | LLM agents that classify text and discover new categories as they appear |
 | [Coc_AI_Runner](https://github.com/leo-data-gig-world/Coc_AI_Runner) | Tabletop RPG engine run by LLMs: an AI game master, AI party members and rule-based checks, in three languages |
